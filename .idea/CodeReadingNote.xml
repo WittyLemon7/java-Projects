@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CodeReadingNote">
+    <topics>
+      <topic>
+        <name>Number To Words Explanation</name>
+        <note>Check if Number is Negative:
+
+If the number is negative, we print &quot;Invalid Value&quot; and exit the method.
+
+Reverse the Number:
+
+We reverse the number so that we can process the digits from left to right.
+
+For example, if the number is 123, reversing it gives 321.
+
+Get Digit Counts:
+
+We get the count of digits in the original number and the reversed number. This helps us handle any leading zeros later.
+
+For example, if the number is 100, the digit count is 3, and the reversed number is 001 (or just 1 with leading zeros considered).
+
+Print Digits in Words:
+
+We extract each digit from the reversed number and use a switch statement to print the corresponding word.
+
+For example, the digit 1 is printed as &quot;One&quot;.
+
+Handle Leading Zeros:
+
+If the original number had trailing zeros (e.g., 100), we add the appropriate number of &quot;Zero&quot; words at the end.
+
+This ensures that numbers like 100 are printed as &quot;One Zero Zero&quot;.
+
+Here's a simpler explanation with an example:
+
+Let's say we have the number 103:
+
+Reverse the Number: Reversed number is 301.
+
+Get Digit Counts: Original digit count is 3, reversed digit count is 3.
+
+Print Digits in Words:
+
+Extract 1 (from 301), print &quot;One&quot;.
+
+Extract 0 (from 301), print &quot;Zero&quot;.
+
+Extract 3 (from 301), print &quot;Three&quot;.
+
+Handle Leading Zeros: No trailing zeros to handle in this case.
+
+Does this help make the process clearer? Let me kno</note>
+        <updatedAt>2025-02-11 12:50:20</updatedAt>
+        <topicLines />
+      </topic>
+    </topics>
+    <state lastExportDir="" lastImportDir="" />
+  </component>
+</project>
