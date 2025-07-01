@@ -4,13 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9a719721-b93d-4e5a-99ab-b50b7575dc02" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/dev/projects/MinimumElement/MinimumElement.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dev/projects/exercises/AddIntegers.md" afterDir="false" />
+    <list default="true" id="9a719721-b93d-4e5a-99ab-b50b7575dc02" name="Changes" comment="small update">
+      <change afterPath="$PROJECT_DIR$/dev/projects/BurgerJoint/Burger.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/projects/BurgerJoint/DeluxBurger.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/projects/BurgerJoint/Item.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/projects/BurgerJoint/MealOrder.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dev/projects/exercises/AddIntegers.java" beforeDir="false" afterPath="$PROJECT_DIR$/dev/projects/exercises/AddIntegers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dev/projects/exercises/AverageValidIntegers.java" beforeDir="false" afterPath="$PROJECT_DIR$/dev/projects/exercises/AverageValidIntegers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dev/projects/exercises/FactorPrinter.java" beforeDir="false" afterPath="$PROJECT_DIR$/dev/projects/exercises/FactorPrinter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/projects/BurgerJoint/Burger.java" beforeDir="false" afterPath="$PROJECT_DIR$/dev/projects/BurgerJoint/Burger.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +63,19 @@
       <option name="presentableId" value="Default" />
       <updated>1736352593638</updated>
     </task>
+    <task id="LOCAL-00001" summary="small update">
+      <option name="closed" value="true" />
+      <created>1751274559583</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1751274559583</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="small update" />
+    <option name="LAST_COMMIT_MESSAGE" value="small update" />
   </component>
 </project>

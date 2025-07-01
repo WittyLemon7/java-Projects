@@ -15,12 +15,14 @@ public class Burger extends Item {
     }
 
     @Override
-    public String getName() {
+    public String getName() {// returns the name of the burger
+        // with "Burger" appended
         return super.getName() + "Burger";
     }
 
     @Override
-    public double getAdjustedPrice() {
+    public double getAdjustedPrice() {// calculates the adjusted
+        // price of the burger
         return super.getAdjustedPrice() +
                 ((extra1 == null) ?  0 : extra1.getAdjustedPrice())  +
                 ((extra2 == null) ? 0 : extra2.getAdjustedPrice())  +
