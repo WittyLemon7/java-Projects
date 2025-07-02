@@ -13,17 +13,17 @@ public class ReverseArray {
     }
 
     private static void reverseArray(int[] array) {
-        int start = 0;
-        int end = array.length - 1;
+        int start = 0;// Get the first index of the array
+        int end = array.length - 1;// Get the last index of the array
 
-        while (start < end) {
+        while (start < end) {// While start index is less than end index
             // Swap elements
-            int temp = array[start];
-            array[start] = array[end];
-            array[end] = temp;
+            int temp = array[start];// Store the start element in a temporary variable
+            array[start] = array[end];// Assign the end element to the start index
+            array[end] = temp;// Assign the temporary variable (start element) to the end index
 
-            start++;
-            end--;
+            start++;// Move the start index to the right
+            end--;// Move the end index to the left
         }
     }
 

@@ -5,17 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9a719721-b93d-4e5a-99ab-b50b7575dc02" name="Changes" comment="small update">
-      <change afterPath="$PROJECT_DIR$/dev/projects/BurgerJoint/Burger.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dev/projects/BurgerJoint/DeluxBurger.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dev/projects/BurgerJoint/Item.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dev/projects/BurgerJoint/MealOrder.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/LeetCodeProjects/LC002_FizzBuzz/FizzBuzz.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/LeetCodeProjects/LC002_FizzBuzz/LC002_FizzBuzz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/LeetCodeProjects/RunningSumArray/LC001_RunningSum1DArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/LeetCodeProjects/RunningSumArray/RunningSumArray.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/projects/ReverseArray/ReverseArrays.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dev/projects/BurgerJoint/Burger.java" beforeDir="false" afterPath="$PROJECT_DIR$/dev/projects/BurgerJoint/Burger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/projects/ReverseArray/ReverseArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/dev/projects/ReverseArray/ReverseArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -43,6 +52,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.AverageValidIntegers.executor": "Run",
+    "Application.LC001_RunningSum1DArrays.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -55,6 +65,11 @@
     "settings.editor.selected.configurable": "editor.preferences.appearance"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ankit\IdeaProjects\Dev.Projects\src\dev\LeetCodeProjects\RunningSumArray" />
+    </key>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="9a719721-b93d-4e5a-99ab-b50b7575dc02" name="Changes" comment="" />
@@ -71,7 +86,15 @@
       <option name="project" value="LOCAL" />
       <updated>1751274559583</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="small update">
+      <option name="closed" value="true" />
+      <created>1751364486593</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1751364486593</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
