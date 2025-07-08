@@ -1,4 +1,4 @@
-package dev.LeetCodeProjects.RunningSumArray;
+package dev.LeetCodeProjects.LC001_RunningSumArray;
 
 public class LC001_RunningSum1DArrays {
     public static void main(String[] args) {

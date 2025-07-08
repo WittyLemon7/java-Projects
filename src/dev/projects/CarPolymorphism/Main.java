@@ -19,9 +19,9 @@ public class Main {
     }
 
 
-    public static void runRace(Car car1) {
-        car1.startEngine();
-        car1.drive();
+    public static void runRace(Car car1) {// This method accepts a Car object and
+        car1.startEngine();// Calls the startEngine method on the Car object
+        car1.drive();// Calls the drive method on the Car object
     }
 
 }

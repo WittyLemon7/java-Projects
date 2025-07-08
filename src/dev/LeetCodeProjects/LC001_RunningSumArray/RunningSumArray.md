@@ -13,7 +13,7 @@ package dev.LeetCodeProjects;
 
 public class LC001_RunningSum1DArrays {
     public static void main(String[] args) {
-        dev.LeetCodeProjects.RunningSumArray.LC001_RunningSum1DArrays runningSum = new dev.LeetCodeProjects.RunningSumArray.LC001_RunningSum1DArrays();//
+        dev.LeetCodeProjects.LC001_RunningSumArray.LC001_RunningSum1DArrays runningSum = new dev.LeetCodeProjects.LC001_RunningSumArray.LC001_RunningSum1DArrays();//
         int[] nums = {1, 2, 3, 4};
         int[] results = runningSum.runningSum(nums);// Create an instance of the class and call the runningSum method
         for (int result : results) {// Loop through the results array
