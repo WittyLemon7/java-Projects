@@ -5,12 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9a719721-b93d-4e5a-99ab-b50b7575dc02" name="Changes" comment="small update adding explanatory notes to projects.">
-      <change afterPath="$PROJECT_DIR$/dev/projects/CinemaHallBookingSystem/BookingSystem.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dev/projects/CinemaHallBookingSystem/CinemaHall.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dev/projects/CinemaHallBookingSystem/MovieTicket.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dev/projects/CinemaHallBookingSystem/PaymentSystem.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/BarkingDog/BarkingDog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/BarkingDog/BarkingDog.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/DecimalComparator/DecimalComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/DecimalComparator/DecimalComparator.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/JavaBasics/JavaBasics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/JavaBasics/JavaBasics.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/LeapYearCalculator/LeapYearCalculation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/LeapYearCalculator/LeapYearCalculator.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/MegabyteConverter/MegabyteConversion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/MegabyteConverter/MegabyteConversion.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/RansomNoteSolution/RansomNote.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/SpeedConversion/SpeedConversion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/SpeedConversion/SpeedConversion.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/projects/ClassesChallenge/BankAccount.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/projects/EncapsulationPrinterChallenge/Printer.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dev/projects/CinemaHallBookingSystem/PaymentSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/dev/projects/CinemaHallBookingSystem/PaymentSystem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/TinkerLabSandbox/NoOfSteps.md" beforeDir="false" afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/NumberOfStepsToZero/NoOfSteps.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/TinkerLabSandbox/NoOfStepsToZero.java" beforeDir="false" afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/NumberOfStepsToZero/NoOfStepsToZero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/projects/ClassesChallenge/BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/dev/projects/ClassesChallenge/BankAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/projects/EncapsulationPrinterChallenge/Printer.java" beforeDir="false" afterPath="$PROJECT_DIR$/dev/projects/EncapsulationPrinterChallenge/Printer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/projects/EncapsulationPrinterChallenge/PrinterSolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/dev/projects/EncapsulationPrinterChallenge/PrinterSolution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,14 +65,20 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.AverageValidIntegers.executor": "Run",
+    "Application.BarkingDog.executor": "Run",
+    "Application.DecimalComparator.executor": "Run",
+    "Application.JavaBasics.executor": "Run",
     "Application.LC001_RunningSum1DArrays.executor": "Run",
+    "Application.LeapYearCalculation.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.MegabyteConversion.executor": "Run",
     "Application.MiddleLinkedList.executor": "Run",
     "Application.MiddleOfTheLinkedList.executor": "Run",
     "Application.NoOfStepsToZero.executor": "Run",
     "Application.RansomNote.executor": "Run",
     "Application.RansomNoteSolution.executor": "Run",
     "Application.RichestCustomer.executor": "Run",
+    "Application.SpeedConversion.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -73,6 +94,9 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ankit\IdeaProjects\Dev.Projects\src\dev\TinkerLabSandbox\NumberOfStepsToZero" />
+      <recent name="C:\Users\ankit\IdeaProjects\Dev.Projects\src\dev\TinkerLabSandbox\SpeedConversion" />
+      <recent name="C:\Users\ankit\IdeaProjects\Dev.Projects\src\dev\TinkerLabSandbox\JavaBasics" />
       <recent name="C:\Users\ankit\IdeaProjects\Dev.Projects\src\dev\LeetCodeProjects\RunningSumArray" />
     </key>
   </component>
@@ -117,7 +141,15 @@
       <option name="project" value="LOCAL" />
       <updated>1751957036229</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="small update adding explanatory notes to projects.">
+      <option name="closed" value="true" />
+      <created>1751966070002</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1751966070002</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

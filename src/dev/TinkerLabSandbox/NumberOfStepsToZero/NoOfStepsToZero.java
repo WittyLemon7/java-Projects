@@ -1,4 +1,4 @@
-package dev.TinkerLabSandbox;
+package dev.TinkerLabSandbox.NumberOfStepsToZero;
 
 public class NoOfStepsToZero {
     public static void main(String[] args) {

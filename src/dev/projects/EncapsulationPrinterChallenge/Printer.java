@@ -5,7 +5,7 @@ public class Printer {
     private int tonerLevel;
     private int pagesPrinted;
     private boolean duplex;
-
+//constructor to initialize the printer with toner level and duplex mode
     public Printer(int tonerLevel, boolean duplex) {
         if (tonerLevel > -1 && tonerLevel <= 100) {
             this.tonerLevel = tonerLevel;
@@ -15,7 +15,7 @@ public class Printer {
         this.duplex = duplex;
         this.pagesPrinted = 0;
     }
-
+//getter for toner level
     public int addToner(int tonerAmount) {
 
         if (tonerAmount > 0 && tonerAmount <= 100) {
@@ -28,7 +28,7 @@ public class Printer {
             return -1;
         }
     }
-
+//method to print pages, considering duplex mode
     public int printPages(int pages) {
 
         int pagesToPrint = pages;
@@ -39,7 +39,7 @@ public class Printer {
         this.pagesPrinted += pagesToPrint;
         return pagesToPrint;
     }
-
+//getter for toner level
     public int getPagesPrinted() {
         return pagesPrinted;
     }

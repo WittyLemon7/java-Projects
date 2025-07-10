@@ -6,6 +6,7 @@ public class PrinterSolution {
     private int pagesPrinted;
     private boolean duplex;
 
+    //constructor that ensures toner level is between 0 and 100
     public PrinterSolution(int tonerLevel, boolean duplex) {
         if (tonerLevel > -1 && tonerLevel <= 100) {
             this.tonerLevel = tonerLevel;
@@ -13,9 +14,11 @@ public class PrinterSolution {
             this.tonerLevel = -1;
         }
         this.duplex = duplex;
-        this.pagesPrinted = 0;
+        this.pagesPrinted = 0;// initialize pages printed to 0
     }
 
+    //method to add toner amount that ensures toner amount remains
+    //between 0 & 100
     public int addToner(int tonerAmount) {
 
         if (tonerAmount > 0 && tonerAmount <= 100) {
@@ -29,6 +32,7 @@ public class PrinterSolution {
         }
     }
 
+    //method to print pages that returns the number of pages printed
     public int printPages(int pages) {
 
         int pagesToPrint = pages;
@@ -40,6 +44,7 @@ public class PrinterSolution {
         return pagesToPrint;
     }
 
+    //getter for pages printed
     public int getPagesPrinted() {
         return pagesPrinted;
     }
