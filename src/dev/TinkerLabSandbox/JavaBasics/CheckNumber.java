@@ -1,6 +1,6 @@
 package dev.TinkerLabSandbox.JavaBasics;
 
-public class JavaBasics {
+public class CheckNumber {
     public static void main(String[] args) {
         int num2 = -5; // Example number
         System.out.println(checkNumber(num2));

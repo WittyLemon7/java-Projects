@@ -4,28 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9a719721-b93d-4e5a-99ab-b50b7575dc02" name="Changes" comment="small update adding explanatory notes to projects.">
-      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/BarkingDog/BarkingDog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/BarkingDog/BarkingDog.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/DecimalComparator/DecimalComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/DecimalComparator/DecimalComparator.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/JavaBasics/JavaBasics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/JavaBasics/JavaBasics.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/LeapYearCalculator/LeapYearCalculation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/LeapYearCalculator/LeapYearCalculator.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/MegabyteConverter/MegabyteConversion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/MegabyteConverter/MegabyteConversion.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/RansomNoteSolution/RansomNote.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/SpeedConversion/SpeedConversion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/SpeedConversion/SpeedConversion.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dev/projects/ClassesChallenge/BankAccount.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dev/projects/EncapsulationPrinterChallenge/Printer.md" afterDir="false" />
+    <list default="true" id="9a719721-b93d-4e5a-99ab-b50b7575dc02" name="Changes" comment="Update to TinkerLabSandbox">
+      <change afterPath="$PROJECT_DIR$/dev/LeetCodeProjects/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/EqualSumCheck/EqualSumCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/EqualSumCheck/EqualSumCheck.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/JavaBasics/BasicAddIntegers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/JavaBasics/JavaBasics&amp;Fundamentals.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/TeenNumberCheck/TeenNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/TeenNumberCheck/TeenNumber.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dev/TinkerLabSandbox/NoOfSteps.md" beforeDir="false" afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/NumberOfStepsToZero/NoOfSteps.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dev/TinkerLabSandbox/NoOfStepsToZero.java" beforeDir="false" afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/NumberOfStepsToZero/NoOfStepsToZero.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dev/projects/ClassesChallenge/BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/dev/projects/ClassesChallenge/BankAccount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dev/projects/EncapsulationPrinterChallenge/Printer.java" beforeDir="false" afterPath="$PROJECT_DIR$/dev/projects/EncapsulationPrinterChallenge/Printer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dev/projects/EncapsulationPrinterChallenge/PrinterSolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/dev/projects/EncapsulationPrinterChallenge/PrinterSolution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/TinkerLabSandbox/DecimalComparator/DecimalComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/DecimalComparator/DecimalComparator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/TinkerLabSandbox/JavaBasics/JavaBasics.java" beforeDir="false" afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/JavaBasics/CheckNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/TinkerLabSandbox/JavaBasics/JavaBasics.md" beforeDir="false" afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/JavaBasics/CheckNumber.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/projects/exercises/AddIntegers.md" beforeDir="false" afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/JavaBasics/AddIntegers.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +58,9 @@
   "keyToString": {
     "Application.AverageValidIntegers.executor": "Run",
     "Application.BarkingDog.executor": "Run",
+    "Application.BasicAddIntegers.executor": "Run",
     "Application.DecimalComparator.executor": "Run",
+    "Application.EqualSumCheck.executor": "Run",
     "Application.JavaBasics.executor": "Run",
     "Application.LC001_RunningSum1DArrays.executor": "Run",
     "Application.LeapYearCalculation.executor": "Run",
@@ -79,6 +73,7 @@
     "Application.RansomNoteSolution.executor": "Run",
     "Application.RichestCustomer.executor": "Run",
     "Application.SpeedConversion.executor": "Run",
+    "Application.TeenNumber.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -89,14 +84,14 @@
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+    "settings.editor.selected.configurable": "configurable.group.language"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ankit\IdeaProjects\Dev.Projects\src\dev\TinkerLabSandbox\JavaBasics" />
       <recent name="C:\Users\ankit\IdeaProjects\Dev.Projects\src\dev\TinkerLabSandbox\NumberOfStepsToZero" />
       <recent name="C:\Users\ankit\IdeaProjects\Dev.Projects\src\dev\TinkerLabSandbox\SpeedConversion" />
-      <recent name="C:\Users\ankit\IdeaProjects\Dev.Projects\src\dev\TinkerLabSandbox\JavaBasics" />
       <recent name="C:\Users\ankit\IdeaProjects\Dev.Projects\src\dev\LeetCodeProjects\RunningSumArray" />
     </key>
   </component>
@@ -149,7 +144,15 @@
       <option name="project" value="LOCAL" />
       <updated>1751966070002</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Update to TinkerLabSandbox">
+      <option name="closed" value="true" />
+      <created>1752134610143</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1752134610143</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -178,6 +181,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="small update" />
     <MESSAGE value="small update adding explanatory notes to projects." />
-    <option name="LAST_COMMIT_MESSAGE" value="small update adding explanatory notes to projects." />
+    <MESSAGE value="Update to TinkerLabSandbox" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update to TinkerLabSandbox" />
   </component>
 </project>

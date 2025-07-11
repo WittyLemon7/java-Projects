@@ -14,4 +14,12 @@ public class DecimalComparator {
         // Round both values to three decimal places and compare them
         return Math.round(firstValue * 1000) == Math.round(secondValue * 1000);
     }
+//     Alternative method using integer comparison
+//    public static boolean areEqualByThreeDecimalPlaces(double num1,double num2) {
+//        //multiply by 1000 to cast into int and truncate it to 3 decimal places
+//        int intnum1 = (int) (num1 * 1000);
+//        int intnum2 = (int) (num2 * 1000);
+//        //compare the values
+//        return intnum1 == intnum2;
+//    }
 }
