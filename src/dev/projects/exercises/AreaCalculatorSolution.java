@@ -8,7 +8,7 @@ public class AreaCalculatorSolution {
         System.out.println(area(5,10));
     }
 
-
+// this attribute is used to indicate an invalid value
         private static final int INVALID_VALUE = -1;
 
         public static double area(double radius) {
