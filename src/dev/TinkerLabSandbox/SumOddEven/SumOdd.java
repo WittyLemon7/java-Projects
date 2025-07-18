@@ -1,4 +1,4 @@
-package dev.TinkerLabSandbox.SumOdd;
+package dev.TinkerLabSandbox.SumOddEven;
 
 public class SumOdd {
     public static void main(String[] args) {

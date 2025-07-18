@@ -5,28 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9a719721-b93d-4e5a-99ab-b50b7575dc02" name="Changes" comment="Update to TinkerLabSandbox">
-      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/AreaCalculation/MethodOverloading/AreaCircleRAndRectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/AreaCalculation/MethodOverloading/MethodOverloadingExample.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/CatPlaying/CatPlaying.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/CatPlaying/CatPlaying.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/DaysInMonth/DaysInMonth.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/DaysInMonth/NoOfDaysInMonth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/EqualityPrinter/EqualityPrinter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/EqualityPrinter/EqualityPrinter.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/MinutesToYearsAndDays/MinutesToYearsAndDays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/MinutesToYearsAndDays/MinutesToYearsDays.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/PrintNumberToWords/NumberToWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/PrintNumberToWords/PrintNumberInWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/SumOdd/SumOdd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/SumOdd/SumOdd.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dev/Utils/InputValidator/InputValidator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dev/Utils/InputValidator/InputValidatorExampleUsage.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dev/Utils/InputValidator/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dev/Utils/NumberWords/ExampleUsage.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dev/Utils/NumberWords/NumberWordUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dev/Utils/NumberWords/NumbersWordsutil.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/SumOddEven/SumEven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/SumOddEven/SumOddMultiplyEven.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dev/projects/exercises/AreaCalculatorSolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/dev/projects/exercises/AreaCalculatorSolution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/TinkerLabSandbox/SumOdd/SumOdd.java" beforeDir="false" afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/SumOddEven/SumOdd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/TinkerLabSandbox/SumOdd/SumOdd.md" beforeDir="false" afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/SumOddEven/SumOdd.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +38,9 @@
     &quot;accountId&quot;: &quot;38015593-bec1-45fb-962b-5a1176d6aac7&quot;
   }
 }</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -94,7 +80,9 @@
     "Application.RansomNoteSolution.executor": "Run",
     "Application.RichestCustomer.executor": "Run",
     "Application.SpeedConversion.executor": "Run",
+    "Application.SumEven.executor": "Run",
     "Application.SumOdd.executor": "Run",
+    "Application.SumOddMultiplyEven.executor": "Run",
     "Application.TeenNumber.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -106,7 +94,7 @@
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "settings.sync"
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -183,7 +171,15 @@
       <option name="project" value="LOCAL" />
       <updated>1752218450226</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Update to TinkerLabSandbox">
+      <option name="closed" value="true" />
+      <created>1752738411662</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1752738411662</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -197,7 +193,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="origin/main" />
+                        <option value="origin/master" />
                       </list>
                     </value>
                   </entry>
