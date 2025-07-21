@@ -5,11 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9a719721-b93d-4e5a-99ab-b50b7575dc02" name="Changes" comment="Update to TinkerLabSandbox">
-      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/SumOddEven/SumEven.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/SumOddEven/SumOddMultiplyEven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/EvenOddDigitSum/Even&amp;OddDigitSum.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/EvenOddDigitSum/EvenDigitSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/EvenOddDigitSum/OddDigitSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/FactorsOfNumbers/Factors.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/FactorsOfNumbers/PrintFactors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/FirstAndLastDigit/FirstLastDigit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/FirstAndLastDigit/FirstLastDigit.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/GCD/GreatestCommonDivisor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/Palindrome/Palindrome.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/Palindrome/PalindromeNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/Palindrome/PalindromeStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/PerfectNumbers/PerfectNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/SameLastDigit/SameLastDigit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/SameLastDigit/SameLastDigit.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/SharedDigit/SharedDigit.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/SharedDigit/SharedDigitBetweenNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/SumOddEven/SumOddMultiplyEven.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dev/TinkerLabSandbox/SumOdd/SumOdd.java" beforeDir="false" afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/SumOddEven/SumOdd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dev/TinkerLabSandbox/SumOdd/SumOdd.md" beforeDir="false" afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/SumOddEven/SumOdd.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/TinkerLabSandbox/DaysInMonth/DaysInMonth.md" beforeDir="false" afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/DaysInMonth/DaysInMonth.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +33,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="UML Sequence" />
+        <option value="UML MindMap" />
         <option value="Class" />
       </list>
     </option>
@@ -39,7 +55,7 @@
   }
 }</component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="ProjectErrors" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
@@ -60,6 +76,9 @@
     "Application.DecimalComparator.executor": "Run",
     "Application.EqualSumCheck.executor": "Run",
     "Application.EqualityPrinter.executor": "Run",
+    "Application.EvenDigitSum.executor": "Run",
+    "Application.FirstLastDigit.executor": "Run",
+    "Application.GreatestCommonDivisor.executor": "Run",
     "Application.JavaBasics.executor": "Run",
     "Application.LC001_RunningSum1DArrays.executor": "Run",
     "Application.LeapYearCalculation.executor": "Run",
@@ -74,16 +93,24 @@
     "Application.NumberToWordsSolution.executor": "Run",
     "Application.NumberWordUtil.executor": "Run",
     "Application.NumberWordUtils.executor": "Run",
+    "Application.OddDigitSum.executor": "Run",
+    "Application.PalindromeNumbers.executor": "Run",
+    "Application.PalindromeStrings.executor": "Run",
+    "Application.PerfectNumbers.executor": "Run",
+    "Application.PrintFactors.executor": "Run",
     "Application.PrintNumberInWords.executor": "Run",
     "Application.PrintNumberToWords.executor": "Run",
     "Application.RansomNote.executor": "Run",
     "Application.RansomNoteSolution.executor": "Run",
     "Application.RichestCustomer.executor": "Run",
+    "Application.SameLastDigit.executor": "Run",
+    "Application.SharedDigitBetweenNumbers.executor": "Run",
     "Application.SpeedConversion.executor": "Run",
     "Application.SumEven.executor": "Run",
     "Application.SumOdd.executor": "Run",
     "Application.SumOddMultiplyEven.executor": "Run",
     "Application.TeenNumber.executor": "Run",
+    "DefaultPlantUmlFileTemplate": "UML MindMap",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -94,7 +121,7 @@
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -179,7 +206,15 @@
       <option name="project" value="LOCAL" />
       <updated>1752738411662</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Update to TinkerLabSandbox">
+      <option name="closed" value="true" />
+      <created>1752817769751</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1752817769751</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

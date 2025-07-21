@@ -1,4 +1,4 @@
-# Dys In Month
+# Days In Month
 ## Problem Statement
 Create a program that checks the no of days in year including leap year. The program should take an integer input representing the year and output the number of days in `Leap Years`.
 ## Discussion
