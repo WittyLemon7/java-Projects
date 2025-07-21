@@ -5,25 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9a719721-b93d-4e5a-99ab-b50b7575dc02" name="Changes" comment="Update to TinkerLabSandbox">
-      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/EvenOddDigitSum/Even&amp;OddDigitSum.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/EvenOddDigitSum/EvenDigitSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/EvenOddDigitSum/OddDigitSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/FactorsOfNumbers/Factors.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/FactorsOfNumbers/PrintFactors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/FirstAndLastDigit/FirstLastDigit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/FirstAndLastDigit/FirstLastDigit.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/GCD/GreatestCommonDivisor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/Palindrome/Palindrome.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/Palindrome/PalindromeNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/Palindrome/PalindromeStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/PerfectNumbers/PerfectNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/SameLastDigit/SameLastDigit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/SameLastDigit/SameLastDigit.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/SharedDigit/SharedDigit.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/SharedDigit/SharedDigitBetweenNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/SumOddEven/SumOddMultiplyEven.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dev/TinkerLabSandbox/DaysInMonth/DaysInMonth.md" beforeDir="false" afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/DaysInMonth/DaysInMonth.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -214,7 +196,15 @@
       <option name="project" value="LOCAL" />
       <updated>1752817769751</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Update to TinkerLabSandbox">
+      <option name="closed" value="true" />
+      <created>1753083817065</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1753083817065</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
