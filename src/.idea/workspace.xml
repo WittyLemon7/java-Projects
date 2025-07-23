@@ -5,6 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9a719721-b93d-4e5a-99ab-b50b7575dc02" name="Changes" comment="Update to TinkerLabSandbox">
+      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/DigitsIntoWords/DigitInWordSolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/DigitsIntoWords/DigitInWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/DigitsIntoWords/DigitInWordsNotes.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/FlourPacking/FlourPackNotes.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/FlourPacking/FlourPacking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/GCD/GCDNotes.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/PerfectNumbers/PerfectNumberNotes.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,10 +63,13 @@
     "Application.BasicAddIntegers.executor": "Run",
     "Application.CatPlaying.executor": "Run",
     "Application.DecimalComparator.executor": "Run",
+    "Application.DigitInWordSolution.executor": "Run",
+    "Application.DigitInWords.executor": "Run",
     "Application.EqualSumCheck.executor": "Run",
     "Application.EqualityPrinter.executor": "Run",
     "Application.EvenDigitSum.executor": "Run",
     "Application.FirstLastDigit.executor": "Run",
+    "Application.FlourPacking.executor": "Run",
     "Application.GreatestCommonDivisor.executor": "Run",
     "Application.JavaBasics.executor": "Run",
     "Application.LC001_RunningSum1DArrays.executor": "Run",
@@ -204,7 +214,15 @@
       <option name="project" value="LOCAL" />
       <updated>1753083817065</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Update to TinkerLabSandbox">
+      <option name="closed" value="true" />
+      <created>1753126467544</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1753126467544</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
