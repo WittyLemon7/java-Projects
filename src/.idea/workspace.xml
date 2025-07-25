@@ -5,13 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9a719721-b93d-4e5a-99ab-b50b7575dc02" name="Changes" comment="Update to TinkerLabSandbox">
-      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/DigitsIntoWords/DigitInWordSolution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/DigitsIntoWords/DigitInWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/DigitsIntoWords/DigitInWordsNotes.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/FlourPacking/FlourPackNotes.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/FlourPacking/FlourPacking.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/GCD/GCDNotes.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/PerfectNumbers/PerfectNumberNotes.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/Calculator/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/Calculator/CalculatorCLI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/Calculator/CalculatorNotes.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/Calculator/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/LargestPrimeNumber/LargestPrime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/LargestPrimeNumber/LargestPrimeNumberNotes.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/PatternPrinter/DiamnondPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/PatternPrinter/HollowSquare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/PatternPrinter/NumberPyramid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/PatternPrinter/PatternPrinterNotes.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/PatternPrinter/PyramidWithLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/PatternPrinter/StarWithLoops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/PatternPrinter/VariableThicknessBorder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/PersonID/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/PersonID/PersonID.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/PersonID/PersonIDNotes.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/WallAreaComputation/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/WallAreaComputation/WallArea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/WallPaintJob/WallPaint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/WallPaintJob/WallPaintNotes.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,8 +74,10 @@
     "Application.AverageValidIntegers.executor": "Run",
     "Application.BarkingDog.executor": "Run",
     "Application.BasicAddIntegers.executor": "Run",
+    "Application.CalculatorCLI.executor": "Run",
     "Application.CatPlaying.executor": "Run",
     "Application.DecimalComparator.executor": "Run",
+    "Application.DiamnondPattern.executor": "Run",
     "Application.DigitInWordSolution.executor": "Run",
     "Application.DigitInWords.executor": "Run",
     "Application.EqualSumCheck.executor": "Run",
@@ -71,8 +86,10 @@
     "Application.FirstLastDigit.executor": "Run",
     "Application.FlourPacking.executor": "Run",
     "Application.GreatestCommonDivisor.executor": "Run",
+    "Application.HollowSquare.executor": "Run",
     "Application.JavaBasics.executor": "Run",
     "Application.LC001_RunningSum1DArrays.executor": "Run",
+    "Application.LargestPrime.executor": "Run",
     "Application.LeapYearCalculation.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.MegabyteConversion.executor": "Run",
@@ -81,6 +98,7 @@
     "Application.MinutesToYearsAndDays.executor": "Run",
     "Application.NoOfDaysInMonth.executor": "Run",
     "Application.NoOfStepsToZero.executor": "Run",
+    "Application.NumberPyramid.executor": "Run",
     "Application.NumberToWords.executor": "Run",
     "Application.NumberToWordsSolution.executor": "Run",
     "Application.NumberWordUtil.executor": "Run",
@@ -92,16 +110,20 @@
     "Application.PrintFactors.executor": "Run",
     "Application.PrintNumberInWords.executor": "Run",
     "Application.PrintNumberToWords.executor": "Run",
+    "Application.PyramidWithLoop.executor": "Run",
     "Application.RansomNote.executor": "Run",
     "Application.RansomNoteSolution.executor": "Run",
     "Application.RichestCustomer.executor": "Run",
     "Application.SameLastDigit.executor": "Run",
     "Application.SharedDigitBetweenNumbers.executor": "Run",
     "Application.SpeedConversion.executor": "Run",
+    "Application.StarWithLoops.executor": "Run",
     "Application.SumEven.executor": "Run",
     "Application.SumOdd.executor": "Run",
     "Application.SumOddMultiplyEven.executor": "Run",
     "Application.TeenNumber.executor": "Run",
+    "Application.VariableThicknessBorder.executor": "Run",
+    "Application.WallPaint.executor": "Run",
     "DefaultPlantUmlFileTemplate": "UML MindMap",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -222,7 +244,15 @@
       <option name="project" value="LOCAL" />
       <updated>1753126467544</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Update to TinkerLabSandbox">
+      <option name="closed" value="true" />
+      <created>1753251433501</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1753251433501</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
