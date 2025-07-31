@@ -1,4 +1,4 @@
-package dev.TinkerLabSandbox.ShapeAreaVolumeCalculation;
+package dev.TinkerLabSandbox.ShapeAreaVolumeCalculation.Circle;
 
 /* calculate using user input
 area of a circle

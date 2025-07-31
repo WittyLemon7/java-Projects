@@ -1,4 +1,4 @@
-package dev.TinkerLabSandbox.ShapeAreaVolumeCalculation;
+package dev.TinkerLabSandbox.ShapeAreaVolumeCalculation.Circle;
 
 public class Sphere1 extends Circle1 {
 

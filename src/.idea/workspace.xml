@@ -5,27 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9a719721-b93d-4e5a-99ab-b50b7575dc02" name="Changes" comment="Update to TinkerLabSandbox">
-      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/CarpetAreaCost/Carpet1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/CarpetAreaCost/CostCalculation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/CarpetAreaCost/Floor1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/CarpetAreaCost/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/CarpetAreaCost/UserInputMethod/Calculation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/CarpetAreaCost/UserInputMethod/Carpet2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/CarpetAreaCost/UserInputMethod/Floor2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/CarpetAreaCost/UserInputMethod/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/CarpetAreaCost/UserInputMethod/MainExplanation.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/CarpetAreaCost/UserInputMethod/Notes.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/ComplexNumber/ComplexNumberOperations.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/ComplexNumber/ComplexNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/PointDistance/DistanceBetweenPointsNotes.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/PointDistance/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/PointDistance/Point.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/ShapeAreaVolumeCalculation/Circle1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/ShapeAreaVolumeCalculation/Cylinder1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/ShapeAreaVolumeCalculation/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/ShapeAreaVolumeCalculation/MainExplain.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/ShapeAreaVolumeCalculation/Sphere1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/ShapeAreaVolumeCalculation/Rectangle/Cuboids.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/ShapeAreaVolumeCalculation/Rectangle/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/ShapeAreaVolumeCalculation/Rectangle/Rectangles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/ShapeAreaVolumeCalculation/Triangle/GeneralPyramid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/ShapeAreaVolumeCalculation/Triangle/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/ShapeAreaVolumeCalculation/Triangle/Pyramid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/ShapeAreaVolumeCalculation/Triangle/Triangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/TinkerLabSandbox/ShapeAreaVolumeCalculation/Circle1.java" beforeDir="false" afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/ShapeAreaVolumeCalculation/Circle/Circle1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/TinkerLabSandbox/ShapeAreaVolumeCalculation/Cylinder1.java" beforeDir="false" afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/ShapeAreaVolumeCalculation/Circle/Cylinder1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/TinkerLabSandbox/ShapeAreaVolumeCalculation/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/ShapeAreaVolumeCalculation/Circle/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/TinkerLabSandbox/ShapeAreaVolumeCalculation/MainExplain.md" beforeDir="false" afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/ShapeAreaVolumeCalculation/Circle/MainExplain.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/TinkerLabSandbox/ShapeAreaVolumeCalculation/Sphere1.java" beforeDir="false" afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/ShapeAreaVolumeCalculation/Circle/Sphere1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -141,11 +133,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ankit\IdeaProjects\Dev.Projects\src\dev\TinkerLabSandbox\ShapeAreaVolumeCalculation\Circle" />
       <recent name="C:\Users\ankit\IdeaProjects\Dev.Projects\src\dev\Utils\NumberWords" />
       <recent name="C:\Users\ankit\IdeaProjects\Dev.Projects\src\dev\Utils\InputValidator" />
       <recent name="C:\Users\ankit\IdeaProjects\Dev.Projects\src\dev\TinkerLabSandbox\JavaBasics" />
       <recent name="C:\Users\ankit\IdeaProjects\Dev.Projects\src\dev\TinkerLabSandbox\NumberOfStepsToZero" />
-      <recent name="C:\Users\ankit\IdeaProjects\Dev.Projects\src\dev\TinkerLabSandbox\SpeedConversion" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -261,7 +253,15 @@
       <option name="project" value="LOCAL" />
       <updated>1753427174574</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Update to TinkerLabSandbox">
+      <option name="closed" value="true" />
+      <created>1753864755277</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1753864755277</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
