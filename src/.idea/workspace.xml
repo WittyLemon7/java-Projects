@@ -5,19 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9a719721-b93d-4e5a-99ab-b50b7575dc02" name="Changes" comment="Update to TinkerLabSandbox">
-      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/ShapeAreaVolumeCalculation/Rectangle/Cuboids.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/ShapeAreaVolumeCalculation/Rectangle/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/ShapeAreaVolumeCalculation/Rectangle/Rectangles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/ShapeAreaVolumeCalculation/Triangle/GeneralPyramid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/ShapeAreaVolumeCalculation/Triangle/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/ShapeAreaVolumeCalculation/Triangle/Pyramid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/ShapeAreaVolumeCalculation/Triangle/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/BedroomComposition/Beds.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/BedroomComposition/Ceilings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/BedroomComposition/Curtains.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/BedroomComposition/Lamps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/BedroomComposition/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/BedroomComposition/Notes.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/BedroomComposition/Room.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/BedroomComposition/bedroomWalls.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/ShapeAreaVolumeCalculation/Circle/CircleNotes.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/ShapeAreaVolumeCalculation/Rectangle/Notes.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/ShapeAreaVolumeCalculation/Triangle/Notes.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dev/TinkerLabSandbox/ShapeAreaVolumeCalculation/Circle1.java" beforeDir="false" afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/ShapeAreaVolumeCalculation/Circle/Circle1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dev/TinkerLabSandbox/ShapeAreaVolumeCalculation/Cylinder1.java" beforeDir="false" afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/ShapeAreaVolumeCalculation/Circle/Cylinder1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dev/TinkerLabSandbox/ShapeAreaVolumeCalculation/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/ShapeAreaVolumeCalculation/Circle/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dev/TinkerLabSandbox/ShapeAreaVolumeCalculation/MainExplain.md" beforeDir="false" afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/ShapeAreaVolumeCalculation/Circle/MainExplain.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dev/TinkerLabSandbox/ShapeAreaVolumeCalculation/Sphere1.java" beforeDir="false" afterPath="$PROJECT_DIR$/dev/TinkerLabSandbox/ShapeAreaVolumeCalculation/Circle/Sphere1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,7 +127,7 @@
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "settings.sync"
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -261,7 +260,15 @@
       <option name="project" value="LOCAL" />
       <updated>1753864755277</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Update to TinkerLabSandbox">
+      <option name="closed" value="true" />
+      <created>1753949034090</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1753949034090</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
