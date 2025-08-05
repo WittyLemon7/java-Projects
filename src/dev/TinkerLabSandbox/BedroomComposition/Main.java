@@ -1,7 +1,7 @@
 package dev.TinkerLabSandbox.BedroomComposition;
 
 
-/**
+/*
  * Main class for the BedroomComposition project.
  * This class serves as the entry point for the application.
  * this class will use user input to create a bedroom composition using  Scanner
