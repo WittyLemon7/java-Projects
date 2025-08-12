@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9a719721-b93d-4e5a-99ab-b50b7575dc02" name="Changes" comment="Update to TinkerLabSandbox">
-      <change afterPath="$PROJECT_DIR$/dev/LeetCodeProjects/LC005_Pallindrome/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dev/projects/CinemaHallBookingSystem/MovieTicketAsRecord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/projects/arrays/TwoSum/TwoSum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,88 +51,88 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.AreaCircle.executor": "Run",
-    "Application.AreaCircleRAndRectangle.executor": "Run",
-    "Application.AverageValidIntegers.executor": "Run",
-    "Application.BarkingDog.executor": "Run",
-    "Application.BasicAddIntegers.executor": "Run",
-    "Application.CalculatorCLI.executor": "Run",
-    "Application.CatPlaying.executor": "Run",
-    "Application.ComplexNumbers.executor": "Run",
-    "Application.DecimalComparator.executor": "Run",
-    "Application.DiamnondPattern.executor": "Run",
-    "Application.DigitInWordSolution.executor": "Run",
-    "Application.DigitInWords.executor": "Run",
-    "Application.EqualSumCheck.executor": "Run",
-    "Application.EqualityPrinter.executor": "Run",
-    "Application.EvenDigitSum.executor": "Run",
-    "Application.FirstLastDigit.executor": "Run",
-    "Application.FlourPacking.executor": "Run",
-    "Application.GreatestCommonDivisor.executor": "Run",
-    "Application.HollowSquare.executor": "Run",
-    "Application.JavaBasics.executor": "Run",
-    "Application.LC001_RunningSum1DArrays.executor": "Run",
-    "Application.LargestPrime.executor": "Run",
-    "Application.LeapYearCalculation.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.MegabyteConversion.executor": "Run",
-    "Application.MiddleLinkedList.executor": "Run",
-    "Application.MiddleOfTheLinkedList.executor": "Run",
-    "Application.MinutesToYearsAndDays.executor": "Run",
-    "Application.NoOfDaysInMonth.executor": "Run",
-    "Application.NoOfStepsToZero.executor": "Run",
-    "Application.NumberPyramid.executor": "Run",
-    "Application.NumberToWords.executor": "Run",
-    "Application.NumberToWordsSolution.executor": "Run",
-    "Application.NumberWordUtil.executor": "Run",
-    "Application.NumberWordUtils.executor": "Run",
-    "Application.OddDigitSum.executor": "Run",
-    "Application.PalindromeNumbers.executor": "Run",
-    "Application.PalindromeStrings.executor": "Run",
-    "Application.PerfectNumbers.executor": "Run",
-    "Application.PrintFactors.executor": "Run",
-    "Application.PrintNumberInWords.executor": "Run",
-    "Application.PrintNumberToWords.executor": "Run",
-    "Application.PyramidWithLoop.executor": "Run",
-    "Application.RansomNote.executor": "Run",
-    "Application.RansomNoteSolution.executor": "Run",
-    "Application.RichestCustomer.executor": "Run",
-    "Application.SameLastDigit.executor": "Run",
-    "Application.SharedDigitBetweenNumbers.executor": "Run",
-    "Application.Solution.executor": "Run",
-    "Application.SpeedConversion.executor": "Run",
-    "Application.StarWithLoops.executor": "Run",
-    "Application.SumEven.executor": "Run",
-    "Application.SumOdd.executor": "Run",
-    "Application.SumOddMultiplyEven.executor": "Run",
-    "Application.TeenNumber.executor": "Run",
-    "Application.VariableThicknessBorder.executor": "Run",
-    "Application.WallPaint.executor": "Run",
-    "DefaultPlantUmlFileTemplate": "UML MindMap",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "dart.analysis.tool.window.visible": "false",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "junie.onboarding.icon.badge.shown": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/ankit/IdeaProjects/Dev.Projects/src",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "show.migrate.to.gradle.popup": "false",
-    "to.speed.mode.migration.done": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.AreaCircle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AreaCircleRAndRectangle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AverageValidIntegers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BarkingDog.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BasicAddIntegers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CalculatorCLI.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CatPlaying.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ComplexNumbers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DecimalComparator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DiamnondPattern.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DigitInWordSolution.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DigitInWords.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EqualSumCheck.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EqualityPrinter.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EvenDigitSum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FirstLastDigit.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FlourPacking.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GreatestCommonDivisor.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HollowSquare.executor&quot;: &quot;Run&quot;,
+    &quot;Application.JavaBasics.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LC001_RunningSum1DArrays.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LargestPrime.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LeapYearCalculation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MegabyteConversion.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MiddleLinkedList.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MiddleOfTheLinkedList.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MinutesToYearsAndDays.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NoOfDaysInMonth.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NoOfStepsToZero.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NumberPyramid.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NumberToWords.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NumberToWordsSolution.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NumberWordUtil.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NumberWordUtils.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OddDigitSum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PalindromeNumbers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PalindromeStrings.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PerfectNumbers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrintFactors.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrintNumberInWords.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrintNumberToWords.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PyramidWithLoop.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RansomNote.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RansomNoteSolution.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RichestCustomer.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SameLastDigit.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SharedDigitBetweenNumbers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Solution.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SpeedConversion.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StarWithLoops.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SumEven.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SumOdd.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SumOddMultiplyEven.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TeenNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.VariableThicknessBorder.executor&quot;: &quot;Run&quot;,
+    &quot;Application.WallPaint.executor&quot;: &quot;Run&quot;,
+    &quot;DefaultPlantUmlFileTemplate&quot;: &quot;UML MindMap&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ankit/IdeaProjects/Dev.Projects/src&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\ankit\IdeaProjects\Dev.Projects\src\dev\TinkerLabSandbox\ShapeAreaVolumeCalculation\Circle" />
@@ -299,7 +298,15 @@
       <option name="project" value="LOCAL" />
       <updated>1754387606214</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Update to TinkerLabSandbox">
+      <option name="closed" value="true" />
+      <created>1754634012032</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1754634012032</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
